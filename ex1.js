@@ -6,4 +6,6 @@ function muestraGato() {
   console.log("Gato!");
 }
 
+muestraGato();
+
 // A partir de aquí tu código
