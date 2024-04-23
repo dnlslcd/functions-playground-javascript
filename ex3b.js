@@ -17,7 +17,7 @@ function isPositive(num) {
  * boolean
  * 
  * 4. El código de abajo usa la función isPositve. ¿La usa adecuadamente? ¿Por qué?
- * no es correcto porque el nombre no representa con bastante fidelidad el valor de la función?
+ * no es correcto porque no muestra el mensaje correcto en función 
  */
 
 let x = 4;
